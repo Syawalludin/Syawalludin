@@ -17,3 +17,5 @@
 # <!-- Language -->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Syawalludin&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+# Contact Me
+<a href="https://www.linkedin.com/in/sywlludin/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
